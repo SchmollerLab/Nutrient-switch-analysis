@@ -33,6 +33,26 @@ For each figure, the dates of the experimental replicates (provided in the datap
     - [Fig_1F_1G_S3_SteadyStateMicroscopy](final_code/Fig1_FigS1_Fig_S3/Fig_1F_1G_S3_SteadyStateMicroscopy) <br />
       - Dataprep:  <br />
         - 1 script per medium for steady state microscopy experiments:
-          - SCD: datasets 20210120 and 20210121. SCGE: datasets 20210923 and 20230103
-        - script2 and script3 for downstream analysis
-        - script4, script5 and script6 for laterally integrating an extra replicate of SCD microscopy for the Ccr4 mutant (dataset 20231212) 
+          - SCD: datasets 20210120 and 20210121, [1script_SCD.ipynb](final_code/Fig1_FigS1_Fig_S3/Fig_1F_1G_S3_SteadyStateMicroscopy/dataprep/1script_SCD.ipynb). SCGE: datasets 20210923 and 20230103, [1script_SCGE.ipynb](final_code/Fig1_FigS1_Fig_S3/Fig_1F_1G_S3_SteadyStateMicroscopy/dataprep/1script_SCGE.ipynb)
+        - script2 [(2script_combined_media.ipynb)](final_code/Fig1_FigS1_Fig_S3/Fig_1F_1G_S3_SteadyStateMicroscopy/dataprep/2script_combined_media.ipynb) and script3 [(3script_combined_media.ipynb)](final_code/Fig1_FigS1_Fig_S3/Fig_1F_1G_S3_SteadyStateMicroscopy/dataprep/3script_combined_media.ipynb) for combining the media and further downstream analysis  
+        - script4 [(4script_additionalCcr4rep.ipynb)](final_code/Fig1_FigS1_Fig_S3/Fig_1F_1G_S3_SteadyStateMicroscopy/dataprep/4script_additionalCcr4rep.ipynb), script5 [(5script_additionalCcr4rep.ipynb)](final_code/Fig1_FigS1_Fig_S3/Fig_1F_1G_S3_SteadyStateMicroscopy/dataprep/5script_additionalCcr4rep.ipynb) and script6 [(6script_additionalCcr4rep.ipynb)](final_code/Fig1_FigS1_Fig_S3/Fig_1F_1G_S3_SteadyStateMicroscopy/dataprep/6script_additionalCr4rep.ipynb) for integrating an extra replicate of SCD microscopy for the Ccr4 mutant (dataset 20231212)
+      - 2 scripts for plotting: [plot_Fig1F_and_G.ipynb](final_code/Fig1_FigS1_Fig_S3/Fig_1F_1G_S3_SteadyStateMicroscopy/plot_Fig1F_and_G.ipynb) and [plot_FigS3.ipynb](final_code/Fig1_FigS1_Fig_S3/Fig_1F_1G_S3_SteadyStateMicroscopy/plot_FigS3.ipynb)
+
+
+
+ - [Fig2](final_code/Fig2)
+
+   
+   - Dataprep: example script for dataprep for one replicate [(concatenating_timept_files_per_rep.ipynb)](final_code/Fig2/dataprep/concatenating_timept_files_per_rep.ipynb). This script concatenates coulter counter data from multiple timepoints and cleans it for use in python. Run this script for datasets _ , _ , _ , _ , _ and _. Combine the outputs for all the reps and import resulting df into plotting script.
+   - 1 script for plotting Fig. 2B, 2C and 2D [(plot_Fig2.ipynb)](final_code/Fig2/plot_Fig2.ipynb)
+
+
+
+ - [Fig4_Fig5_Fig7_FigS4_FigS5](final_code/Fig4_Fig5_Fig7_FigS4_FigS5)
+
+   - Dataprep for nutrient-switch experiments - split into three further categories:
+     - [nutrient_switch_original4strains](final_code/Fig4_Fig5_Fig7_FigS4_FigS5/dataprep/nutrient_switch_original4strains) - containing WT, *Δwhi5*, *Δbck2* and *Δwhi5Δbck2* <br />
+        datasets 09082022, 13102022 and 28032023 - analysed with respective scripts [(script1_rep1_09082022.ipynb](final_code/Fig4_Fig5_Fig7_FigS4_FigS5/dataprep/nutrient_switch_original4strains/script1_rep1_09082022.ipynb), [script2_rep2_13102022.ipynb](final_code/Fig4_Fig5_Fig7_FigS4_FigS5/dataprep/nutrient_switch_original4strains/script2_rep2_13102022.ipynb), [script3_rep3_28032023.ipynb)](final_code/Fig4_Fig5_Fig7_FigS4_FigS5/dataprep/nutrient_switch_original4strains/script3_rep3_28032023.ipynb)<br />
+        +1 script to combine the replicates [script4_repscombined_withsteadystate.ipynb](final_code/Fig4_Fig5_Fig7_FigS4_FigS5/dataprep/nutrient_switch_original4strains/script4_repscombined_withsteadystate.ipynb)
+     - [nutrient_switch_original4strains](final_code/Fig4_Fig5_Fig7_FigS4_FigS5/dataprep/nutrient_switch_original4strains) - containing WT, *Δwhi5*, *Δbck2* and *Δwhi5Δbck2* <br />
+        datasets 09082022, 13102022 and 28032023 - analysed with respective scripts [(script1_rep1_09082022.ipynb](final_code/Fig4_Fig5_Fig7_FigS4_FigS5/dataprep/nutrient_switch_original4strains/script1_rep1_09082022.ipynb), [script2_rep2_13102022.ipynb](final_code/Fig4_Fig5_Fig7_FigS4_FigS5/dataprep/nutrient_switch_original4strains/script2_rep2_13102022.ipynb), [script3_rep3_28032023.ipynb)](final_code/Fig4_Fig5_Fig7_FigS4_FigS5/dataprep/nutrient_switch_original4strains/script3_rep3_28032023.ipynb)
