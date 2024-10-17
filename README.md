@@ -61,5 +61,5 @@ For each figure, the dates of the experimental replicates (provided in the datap
         datasets 28092023 and 06102023 - analysed with respective scripts [(script1_rep1_28092023.ipynb](final_code/Fig4_Fig5_Fig7_FigS4_FigS5/dataprep/nutrient_switch_cln3stabilisations_with_deletion_mutants/script1_rep1_28092023.ipynb), [script2_rep2_06102023.ipynb](final_code/Fig4_Fig5_Fig7_FigS4_FigS5/dataprep/nutrient_switch_cln3stabilisations_with_deletion_mutants/script2_rep2_06102023.ipynb)<br />
         +1 script to combine the replicates [nutrient_switch_repscombined_Cln3stabs_withMutants.ipynb](final_code/Fig4_Fig5_Fig7_FigS4_FigS5/dataprep/nutrient_switch_cln3stabilisations_with_deletion_mutants/nutrient_switch_repscombined_Cln3stabs_withMutants.ipynb)
 
-   - Plotting script - [plot_Fig4_Fig5_Fig7_FigS4_FigS5](final_code/Fig4_Fig5_Fig7_FigS4_FigS5/plot_Fig4_Fig5_Fig7_FigS4_FigS5.ipynb)
+   - Plotting script - [plot_Fig4_Fig5_Fig7_FigS4_FigS5](final_code/Fig4_Fig5_Fig7_FigS4_FigS5/plot_Fig4_Fig5_Fig7_FigS4_FigS5.ipynb). NOTE: Please make sure you have run dataprep for [Fig_1F_1G_S3_SteadyStateMicroscopy](final_code/Fig1_FigS1_Fig_S3/Fig_1F_1G_S3_SteadyStateMicroscopy) before running this script to include steady-state control cells.
      
