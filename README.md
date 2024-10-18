@@ -7,7 +7,7 @@ Written in Python using Jupyter notebooks. Details on packages and versions can 
 # General structure
 The figures and the corresponding code are grouped into folders based on the underlying experimental datasets used.
 Within each folder, the dataprep scripts must be run first, in the sequence assigned in their filenames. 
-Once the prepped data is saved, the plotting script for the figures can be run. <br />
+Once the prepped data is saved, the plotting script for the figures can be run. The location of the prepped data should be updated while importing and saving.<br />
 
 
 While the functions used for dataprep are common between the different replicates of a particular kind of microscopy experiment, unique scripts have been included for every replicate because they carry information about the experimental setup (eg. data location, what position corresponds to what strain etc.). This also allows for saving analysed data for individual replicates before combining them into one file. <br />
