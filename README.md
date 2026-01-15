@@ -48,7 +48,7 @@ For each figure, the dates of the experimental replicates (provided in the datap
 
 
 
- - [Fig4_Fig5_Fig7_FigS4_FigS5](final_code/Fig4_Fig5_Fig7_FigS4_FigS5)
+ - [Fig4_Fig5_Fig7_FigS4_FigS5](final_code/Fig4_Fig5_Fig7_FigS4_FigS5) [NOTE: For Fig7, also see Revision section]
 
    - Dataprep for nutrient-switch experiments - split into three further categories:
      - [nutrient_switch_original4strains](final_code/Fig4_Fig5_Fig7_FigS4_FigS5/dataprep/nutrient_switch_original4strains) - containing WT, *Δwhi5*, *Δbck2* and *Δwhi5Δbck2* <br />
@@ -64,7 +64,7 @@ For each figure, the dates of the experimental replicates (provided in the datap
    - Plotting script - [plot_Fig4_Fig5_Fig7_FigS4_FigS5](final_code/Fig4_Fig5_Fig7_FigS4_FigS5/plot_Fig4_Fig5_Fig7_FigS4_FigS5.ipynb). NOTE: Please make sure you have run dataprep for [Fig_1F_1G_S3_SteadyStateMicroscopy](final_code/Fig1_FigS1_Fig_S3/Fig_1F_1G_S3_SteadyStateMicroscopy) before running this script to include steady-state control cells.
 
 
-- [Fig6_FigS6](final_code/Fig6_FigS6)
+- [Fig6_FigS6](final_code/Fig6_FigS6) [NOTE: For Fig6, also see Revision section]
 
   - Dataprep for nutrient switch with cell-cycle reporter strains: 
     - script1 and script2 for dataprep of each replicate (datasets 13102023 and 19102023): [script1_rep1_13102023.ipynb](final_code/Fig6_FigS6/dataprep/script1_rep1_13102023.ipynb) and [script2_rep2_19102023.ipynb](final_code/Fig6_FigS6/dataprep/script2_rep2_19102023.ipynb)
@@ -75,3 +75,11 @@ For each figure, the dates of the experimental replicates (provided in the datap
 - [FigS2](final_code/FigS2)
 
   - 1 script for dataprep and plotting steady-state SCD coulter counter data for WT, *Δccr4* and *Δwhi5Δccr4* from dataset 04042023 [FigS2_dataprep_and_plotting.ipynb](final_code/FigS2/FigS2_dataprep_and_plotting.ipynb)
+ 
+- [Revision](jupyter_scripts/final_code/Revision)
+
+  - Revised parts of Fig6 and Fig S6: After running the scripts for the original Fig 6 and S6, run the scripts for the additional replicate performed for revisions, the dataset for which is 11122024. In the folder jupyter_scripts/final_code/Revision/revision_Fig6_CellCycleMarkerdata, run the scripts in the following order: script1_rep3_11122024.ipynb, script3_11122024_fluorescenceanalysis.ipynb, script4_11122024_fluorescenceanalysis_II.ipynb, script5_11122024.ipynb, Revised_Fig6_FigS6_plots.ipynb. The updated panels of Fig6 and Fig S6 must be formatted externally in Inkscape and merged with the original figures.
+ 
+  - Revised parts of Fig7: After running the scripts for the original Fig 7, run the scripts for the new METprCLN3-11A/METprCLN3 strains, the datasets for which are 07032025 and 27032025. In the folder jupyter_scripts/final_code/Revision/revision_Fig7_Metpr_cln311a_Exps, run the scripts in the following order: script1_rep1_07032025.ipynb, script2_rep2_27032025.ipynb, script3_repscombined.ipynb, Revised_Fig7_basedon_plot_Fig4_Fig5_Fig7_FigS4_FigS5.ipynb. The updated panels of Fig7 must be formatted externally in Inkscape and merged with the original figures.
+ 
+  - Revision plan: For figures in the revision proposal and their updates, please run scripts in the jupyter_scripts/final_code/Revision/revision_plan_plots folder. old_revision_plan_Fig4_Fig5_Fig7_FigS4_FigS5-Copy1.ipynb is for plots in the original revision proposal. revision_plan_plot_Fig4_Fig5_Fig7_FigS4_FigS5-Copy1.ipynb is for updated versions of these revision proposal figures. 
