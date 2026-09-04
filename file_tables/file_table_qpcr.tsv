@@ -1,0 +1,193 @@
+Files	Type	qPCR_experiment	qPCR_run	annotation_status	annotation_reason
+qpcr/final paper data/csv_forplots_thesis_final_Analysis.csv	qPCR output	final paper data		unresolved	no qPCR run folder
+qpcr/final paper data/final_Combined_Turbo_Analysis.xlsx	summary	final paper data		annotated	
+qpcr/final paper data/turbo dnase 170921/TurboDNase_analysis.xlsx	qPCR output	final paper data	turbo dnase 170921	annotated	
+qpcr/final paper data/turbo dnase 170921/Yagya_act1_turbo_cDNA_17092021 - Abs Quant.txt	qPCR output	final paper data	turbo dnase 170921	annotated	
+qpcr/final paper data/turbo dnase 170921/Yagya_act1_turbo_cDNA_17092021.lc96p	qPCR output	final paper data	turbo dnase 170921	annotated	
+qpcr/final paper data/turbo dnase 170921/Yagya_rdn18_turbo_cDNA_17092021 - Abs Quant.txt	qPCR output	final paper data	turbo dnase 170921	annotated	
+qpcr/final paper data/turbo dnase 170921/Yagya_rdn18_turbo_cDNA_17092021.lc96p	qPCR output	final paper data	turbo dnase 170921	annotated	
+qpcr/final paper data/turbo dnase 170921/Yagya_rdn18_turbo_cDNA_200921 - Abs Quant.txt	qPCR output	final paper data	turbo dnase 170921	annotated	
+qpcr/final paper data/turbo dnase 170921/Yagya_rdn18_turbo_cDNA_200921.lc96p	qPCR output	final paper data	turbo dnase 170921	annotated	
+qpcr/final paper data/turbo dnase 170921/Yagya_rdn18_turbo_cDNA_21092021 - Abs Quant.txt	qPCR output	final paper data	turbo dnase 170921	annotated	
+qpcr/final paper data/turbo dnase 170921/Yagya_rdn18_turbo_cDNA_21092021.lc96p	qPCR output	final paper data	turbo dnase 170921	annotated	
+qpcr/final paper data/turbo dnase 170921/Yagya_whi5_turbo_cDNA_17092021 - Abs Quant.txt	qPCR output	final paper data	turbo dnase 170921	annotated	
+qpcr/final paper data/turbo dnase 170921/Yagya_whi5_turbo_cDNA_17092021.lc96p	qPCR output	final paper data	turbo dnase 170921	annotated	
+qpcr/final paper data/turbo dnase 170921/Yagya_whi7_turbo_cDNA_17092021 - Abs Quant.txt	qPCR output	final paper data	turbo dnase 170921	annotated	
+qpcr/final paper data/turbo dnase 170921/Yagya_whi7_turbo_cDNA_17092021.lc96p	qPCR output	final paper data	turbo dnase 170921	annotated	
+qpcr/final paper data/turbo dnase 261121/analysis.xlsx	qPCR output	final paper data	turbo dnase 261121	annotated	
+qpcr/final paper data/turbo dnase 261121/Yagya_act1_turbo_cDNA_26112021_01 - Abs Quant.txt	qPCR output	final paper data	turbo dnase 261121	annotated	
+qpcr/final paper data/turbo dnase 261121/Yagya_act1_turbo_cDNA_26112021_01 - Abs Quant.xlsx	qPCR output	final paper data	turbo dnase 261121	annotated	
+qpcr/final paper data/turbo dnase 261121/Yagya_act1_turbo_cDNA_26112021_01.lc96p	qPCR output	final paper data	turbo dnase 261121	annotated	
+qpcr/final paper data/turbo dnase 261121/Yagya_mdn1_turbo_cDNA_26112021_01 - Abs Quant.txt	qPCR output	final paper data	turbo dnase 261121	annotated	
+qpcr/final paper data/turbo dnase 261121/Yagya_mdn1_turbo_cDNA_26112021_01 - Abs Quant.xlsx	qPCR output	final paper data	turbo dnase 261121	annotated	
+qpcr/final paper data/turbo dnase 261121/Yagya_mdn1_turbo_cDNA_26112021_01.lc96p	qPCR output	final paper data	turbo dnase 261121	annotated	
+qpcr/final paper data/turbo dnase 261121/Yagya_rdn18_turbo_cDNA_26112021_01 - Abs Quant.txt	qPCR output	final paper data	turbo dnase 261121	annotated	
+qpcr/final paper data/turbo dnase 261121/Yagya_rdn18_turbo_cDNA_26112021_01 - Abs Quant.xlsx	qPCR output	final paper data	turbo dnase 261121	annotated	
+qpcr/final paper data/turbo dnase 261121/Yagya_rdn18_turbo_cDNA_26112021_01.lc96p	qPCR output	final paper data	turbo dnase 261121	annotated	
+qpcr/final paper data/turbo dnase 261121/Yagya_whi5_turbo_cDNA_03122021_01 - Abs Quant.txt	qPCR output	final paper data	turbo dnase 261121	annotated	
+qpcr/final paper data/turbo dnase 261121/Yagya_whi5_turbo_cDNA_03122021_01 - Abs Quant.xlsx	qPCR output	final paper data	turbo dnase 261121	annotated	
+qpcr/final paper data/turbo dnase 261121/Yagya_whi5_turbo_cDNA_03122021_01.lc96p	qPCR output	final paper data	turbo dnase 261121	annotated	
+qpcr/final paper data/turbo dnase 261121/Yagya_whi7_turbo_cDNA_26112021_01 - Abs Quant.txt	qPCR output	final paper data	turbo dnase 261121	annotated	
+qpcr/final paper data/turbo dnase 261121/Yagya_whi7_turbo_cDNA_26112021_01 - Abs Quant.xlsx	qPCR output	final paper data	turbo dnase 261121	annotated	
+qpcr/final paper data/turbo dnase 261121/Yagya_whi7_turbo_cDNA_26112021_01.lc96p	qPCR output	final paper data	turbo dnase 261121	annotated	
+qpcr/mdn1/Yagya_mdn1_turbo_cDNA_25102021_01 - Abs Quant.txt	qPCR output	mdn1		unresolved	no qPCR run folder
+qpcr/mdn1/Yagya_mdn1_turbo_cDNA_25102021_01.lc96p	qPCR output	mdn1		unresolved	no qPCR run folder
+qpcr/Whi5/Yagya_23112020_YCY003_2_3_4_ACT1_mKATE2.lc96p	qPCR output	Whi5		unresolved	no qPCR run folder
+qpcr/Whi5/Yagya_Act1_mkate2_25112020.lc96p	qPCR output	Whi5		unresolved	no qPCR run folder
+qpcr/Whi5/yagya_cdna_whi5primereff_020321_01.lc96p	qPCR output	Whi5		unresolved	no qPCR run folder
+qpcr/Whi5/yagya_cdna_whi5primereff_030321.lc96p	qPCR output	Whi5		unresolved	no qPCR run folder
+qpcr/Whi5/yagya_cdna_whi5primereff_050321.lc96p	qPCR output	Whi5		unresolved	no qPCR run folder
+qpcr/Whi5/yagya_cdna_whi5primereff_180221.lc96p	qPCR output	Whi5		unresolved	no qPCR run folder
+qpcr/Whi5/yagya_cdna_whi5primereff_190221_01.lc96p	qPCR output	Whi5		unresolved	no qPCR run folder
+qpcr/Whi5/yagya_mKate2_act1_dna.lc96p	qPCR output	Whi5		unresolved	no qPCR run folder
+qpcr/Whi5/Yagya_Whi5_RDN18_12042021_absquant_all.txt	qPCR output	Whi5		unresolved	no qPCR run folder
+qpcr/Whi5/Yagya_Whi5_RDN18_12042021_meltingcurves_all.txt	qPCR output	Whi5		unresolved	no qPCR run folder
+qpcr/Whi5/Yagya_whi5_rdn18_cDNA_090421.lc96p	qPCR output	Whi5		unresolved	no qPCR run folder
+qpcr/Whi5/Yagya_whi5_rdn18_cDNA_090421_02.lc96p	qPCR output	Whi5		unresolved	no qPCR run folder
+qpcr/Whi5/Yagya_whi5_rdn18_cDNA_160421 - Abs Quant.txt	qPCR output	Whi5		unresolved	no qPCR run folder
+qpcr/Whi5/Yagya_whi5_rdn18_cDNA_160421 - Abs Quant.xlsx	summary	Whi5		unresolved	no qPCR run folder
+qpcr/Whi5/Yagya_whi5_rdn18_cDNA_160421.lc96p	qPCR output	Whi5		unresolved	no qPCR run folder
+qpcr/Whi5/Yagya_whi5_rdn18_cDNA_160421_2 - Abs Quant.txt	qPCR output	Whi5		unresolved	no qPCR run folder
+qpcr/Whi5/Yagya_whi5_rdn18_cDNA_160421_2.lc96p	qPCR output	Whi5		unresolved	no qPCR run folder
+qpcr/Whi5/Yagya_whi5_rdn18_cDNA_190421 - Abs Quant.txt	qPCR output	Whi5		unresolved	no qPCR run folder
+qpcr/Whi5/Yagya_whi5_rdn18_cDNA_190421.lc96p	qPCR output	Whi5		unresolved	no qPCR run folder
+qpcr/Whi5/Yagya_whi5_rdn18_cDNA_210421 - Abs Quant.txt	qPCR output	Whi5		unresolved	no qPCR run folder
+qpcr/Whi5/Yagya_whi5_rdn18_cDNA_210421.lc96p	qPCR output	Whi5		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/180821.jpg	qPCR output	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/alissa_DNA_E3.9-2.lc96p	qPCR output	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/biorep6_summary.xlsx	summary	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/TurboDNase_analysis.xlsx	summary	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/Yagya_act1_turbo_cDNA_17092021 - Abs Quant.txt	qPCR output	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/Yagya_act1_turbo_cDNA_17092021.lc96p	qPCR output	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/Yagya_rdn18_turbo_cDNA_17092021 - Abs Quant.txt	qPCR output	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/Yagya_rdn18_turbo_cDNA_17092021.lc96p	qPCR output	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/Yagya_rdn18_turbo_cDNA_200921 - Abs Quant.txt	qPCR output	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/Yagya_rdn18_turbo_cDNA_200921.lc96p	qPCR output	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/Yagya_rdn18_turbo_cDNA_21092021 - Abs Quant.txt	qPCR output	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/Yagya_rdn18_turbo_cDNA_21092021.lc96p	qPCR output	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/Yagya_whi5_turbo_cDNA_17092021 - Abs Quant.txt	qPCR output	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/Yagya_whi5_turbo_cDNA_17092021.lc96p	qPCR output	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/Yagya_whi5_whi7_act1_rdn18_cDNA_supermixtest_060921.lc96p	qPCR output	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/Yagya_whi7_turbo_cDNA_17092021 - Abs Quant.txt	qPCR output	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/Yagya_whi7_turbo_cDNA_17092021.lc96p	qPCR output	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/Yagya_whi7_whi5_act1_rdn18_cDNA_08072021_02 - Abs Quant.txt	qPCR output	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/Yagya_whi7_whi5_act1_rdn18_cDNA_08072021_02 - Abs Quant.xlsx	summary	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/Yagya_whi7_whi5_act1_rdn18_cDNA_08072021_02.lc96p	qPCR output	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/Yagya_whi7_whi5_act1_rdn18_cDNA_080721_03 - Abs Quant.txt	qPCR output	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/Yagya_whi7_whi5_act1_rdn18_cDNA_080721_03 - Abs Quant.xlsx	summary	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/Yagya_whi7_whi5_act1_rdn18_cDNA_080721_03.lc96p	qPCR output	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/Yagya_whi7_whi5_act1_rdn18_cDNA_09072021_02 - Abs Quant.txt	qPCR output	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/Yagya_whi7_whi5_act1_rdn18_cDNA_09072021_02 - Abs Quant.xlsx	summary	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/Yagya_whi7_whi5_act1_rdn18_cDNA_09072021_02.lc96p	qPCR output	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/Yagya_whi7_whi5_act1_rdn18_cDNA_090721_01 - Abs Quant.txt	qPCR output	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/Yagya_whi7_whi5_act1_rdn18_cDNA_090721_01 - Abs Quant.xlsx	summary	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/Yagya_whi7_whi5_act1_rdn18_cDNA_090721_01.lc96p	qPCR output	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/Yagya_whi7_whi5_act1_rdn18_cDNA_090721_03 - Abs Quant.txt	qPCR output	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/Yagya_whi7_whi5_act1_rdn18_cDNA_090721_03 - Abs Quant.xlsx	summary	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/Yagya_whi7_whi5_act1_rdn18_cDNA_090721_03.lc96p	qPCR output	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/Yagya_whi7_whi5_act1_rdn18_cDNA_090921_01.lc96p	qPCR output	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/Yagya_whi7_whi5_act1_rdn18_cDNA_090921_02.lc96p	qPCR output	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/Yagya_whi7_whi5_act1_rdn18_cDNA_090921_03 - Abs Quant.txt	qPCR output	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/Yagya_whi7_whi5_act1_rdn18_cDNA_090921_03 - Abs Quant.xlsx	summary	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/Yagya_whi7_whi5_act1_rdn18_cDNA_090921_03.lc96p	qPCR output	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/Yagya_whi7_whi5_act1_rdn18_cDNA_100921_01 - Abs Quant.txt	qPCR output	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/Yagya_whi7_whi5_act1_rdn18_cDNA_100921_01 - Abs Quant.xlsx	summary	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/Yagya_whi7_whi5_act1_rdn18_cDNA_100921_01.lc96p	qPCR output	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/Yagya_whi7_whi5_act1_rdn18_cDNA_140721 - Abs Quant.txt	qPCR output	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/Yagya_whi7_whi5_act1_rdn18_cDNA_140721 - Abs Quant.xlsx	summary	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/Yagya_whi7_whi5_act1_rdn18_cDNA_140721.lc96p	qPCR output	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/Yagya_whi7_whi5_act1_rdn18_cDNA_150721 - Abs Quant.txt	qPCR output	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/Yagya_whi7_whi5_act1_rdn18_cDNA_150721 - Abs Quant.xlsx	summary	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/Yagya_whi7_whi5_act1_rdn18_cDNA_150721.lc96p	qPCR output	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/Yagya_whi7_whi5_act1_rdn18_cDNA_180821.lc96p	qPCR output	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/Yagya_whi7_whi5_act1_rdn18_cDNA_20082021 - Abs Quant.txt	qPCR output	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/Yagya_whi7_whi5_act1_rdn18_cDNA_20082021 - Abs Quant.xlsx	summary	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/Yagya_whi7_whi5_act1_rdn18_cDNA_20082021.lc96p	qPCR output	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/Yagya_whi7_whi5_act1_rdn18_cDNA_23082021_01 - Abs Quant.txt	qPCR output	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/Yagya_whi7_whi5_act1_rdn18_cDNA_23082021_01 - Abs Quant.xlsx	summary	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/Yagya_whi7_whi5_act1_rdn18_cDNA_23082021_01.lc96p	qPCR output	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/Yagya_whi7_whi5_act1_rdn18_cDNA_23082021_02 - Abs Quant.txt	qPCR output	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/Yagya_whi7_whi5_act1_rdn18_cDNA_23082021_02 - Abs Quant.xlsx	summary	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/Yagya_whi7_whi5_act1_rdn18_cDNA_23082021_02.lc96p	qPCR output	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/Yagya_whi7_whi5_act1_rdn18_cDNA_23082021_03 - Abs Quant.txt	qPCR output	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/Yagya_whi7_whi5_act1_rdn18_cDNA_23082021_03 - Abs Quant.xlsx	summary	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/Yagya_whi7_whi5_act1_rdn18_cDNA_23082021_03.lc96p	qPCR output	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/Yagya_whi7_whi5_act1_rdn18_cDNA_24082021_01 - Abs Quant.txt	qPCR output	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/Yagya_whi7_whi5_act1_rdn18_cDNA_24082021_01 - Abs Quant.xlsx	summary	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/Yagya_whi7_whi5_act1_rdn18_cDNA_24082021_01.lc96p	qPCR output	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/Yagya_whi7_whi5_act1_rdn18_cDNA_26082021_01 - Abs Quant.txt	qPCR output	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/Yagya_whi7_whi5_act1_rdn18_cDNA_26082021_01 - Abs Quant.xlsx	summary	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/Yagya_whi7_whi5_act1_rdn18_cDNA_26082021_01.lc96p	qPCR output	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/Yagya_whi7_whi5_act1_rdn18_cDNA_26082021_02 - Abs Quant.txt	qPCR output	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/Yagya_whi7_whi5_act1_rdn18_cDNA_26082021_02 - Abs Quant.xlsx	summary	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/Yagya_whi7_whi5_act1_rdn18_cDNA_26082021_02.lc96p	qPCR output	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/Yagya_whi7_whi5_act1_rdn18_cDNA_26082021_03 - Abs Quant.txt	qPCR output	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/Yagya_whi7_whi5_act1_rdn18_cDNA_26082021_03 - Abs Quant.xlsx	summary	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/Yagya_whi7_whi5_act1_rdn18_cDNA_26082021_03.lc96p	qPCR output	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/Yagya_whi7_whi5_act1_rdn18_cDNA_27082021_01 - Abs Quant.txt	qPCR output	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/Yagya_whi7_whi5_act1_rdn18_cDNA_27082021_01 - Abs Quant.xlsx	summary	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/Yagya_whi7_whi5_act1_rdn18_cDNA_27082021_01.lc96p	qPCR output	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/Yagya_whi7_whi5_act1_rdn18_cDNA_27082021_02 - Abs Quant.txt	qPCR output	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/Yagya_whi7_whi5_act1_rdn18_cDNA_27082021_02 - Abs Quant.xlsx	summary	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/Yagya_whi7_whi5_act1_rdn18_cDNA_27082021_02.lc96p	qPCR output	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/Yagya_whi7_whi5_act1_rdn18_cDNA_27082021_03 - Abs Quant.txt	qPCR output	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/Yagya_whi7_whi5_act1_rdn18_cDNA_27082021_03 - Abs Quant.xlsx	summary	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/whi5 and whi7/Yagya_whi7_whi5_act1_rdn18_cDNA_27082021_03.lc96p	qPCR output	whi5 and whi7		unresolved	no qPCR run folder
+qpcr/Whi7/whi7 in whi5del summary.xlsx	summary	Whi7		unresolved	no qPCR run folder
+qpcr/Whi7/Yagya_whi7_act1_rdn18_cDNA_070721 - Abs Quant.txt	qPCR output	Whi7		unresolved	no qPCR run folder
+qpcr/Whi7/Yagya_whi7_act1_rdn18_cDNA_070721 - Abs Quant.xlsx	summary	Whi7		unresolved	no qPCR run folder
+qpcr/Whi7/Yagya_whi7_act1_rdn18_cDNA_070721.lc96p	qPCR output	Whi7		unresolved	no qPCR run folder
+qpcr/Whi7/Yagya_whi7_act1_rdn18_cDNA_070721_02 - Abs Quant.txt	qPCR output	Whi7		unresolved	no qPCR run folder
+qpcr/Whi7/Yagya_whi7_act1_rdn18_cDNA_070721_02 - Abs Quant.xlsx	summary	Whi7		unresolved	no qPCR run folder
+qpcr/Whi7/Yagya_whi7_act1_rdn18_cDNA_070721_02.lc96p	qPCR output	Whi7		unresolved	no qPCR run folder
+qpcr/Whi7/Yagya_whi7_act1_rdn18_cDNA_070721_03 - Abs Quant.txt	qPCR output	Whi7		unresolved	no qPCR run folder
+qpcr/Whi7/Yagya_whi7_act1_rdn18_cDNA_070721_03 - Abs Quant.xlsx	summary	Whi7		unresolved	no qPCR run folder
+qpcr/Whi7/Yagya_whi7_act1_rdn18_cDNA_070721_03.lc96p	qPCR output	Whi7		unresolved	no qPCR run folder
+qpcr/Whi7/Yagya_whi7_act1_rdn18_cDNA_080721_01 - Abs Quant.txt	qPCR output	Whi7		unresolved	no qPCR run folder
+qpcr/Whi7/Yagya_whi7_act1_rdn18_cDNA_080721_01 - Abs Quant.xlsx	summary	Whi7		unresolved	no qPCR run folder
+qpcr/Whi7/Yagya_whi7_act1_rdn18_cDNA_080721_01.lc96p	qPCR output	Whi7		unresolved	no qPCR run folder
+qpcr/Whi7/Yagya_whi7_act1_rdn18_cDNA_110621.lc96p	qPCR output	Whi7		unresolved	no qPCR run folder
+qpcr/Whi7/Yagya_whi7_act1_rdn18_cDNA_140621 - Abs Quant.txt	qPCR output	Whi7		unresolved	no qPCR run folder
+qpcr/Whi7/Yagya_whi7_act1_rdn18_cDNA_140621 - Abs Quant.xlsx	summary	Whi7		unresolved	no qPCR run folder
+qpcr/Whi7/Yagya_whi7_act1_rdn18_cDNA_140621.lc96p	qPCR output	Whi7		unresolved	no qPCR run folder
+qpcr/Whi7/Yagya_whi7_act1_rdn18_cDNA_140621_02 - Abs Quant.txt	qPCR output	Whi7		unresolved	no qPCR run folder
+qpcr/Whi7/Yagya_whi7_act1_rdn18_cDNA_140621_02 - Abs Quant.xlsx	summary	Whi7		unresolved	no qPCR run folder
+qpcr/Whi7/Yagya_whi7_act1_rdn18_cDNA_140621_02.lc96p	qPCR output	Whi7		unresolved	no qPCR run folder
+qpcr/Whi7/Yagya_whi7_act1_rdn18_cDNA_160621 - Abs Quant.txt	qPCR output	Whi7		unresolved	no qPCR run folder
+qpcr/Whi7/Yagya_whi7_act1_rdn18_cDNA_160621 - Abs Quant.xlsx	summary	Whi7		unresolved	no qPCR run folder
+qpcr/Whi7/Yagya_whi7_act1_rdn18_cDNA_160621.lc96p	qPCR output	Whi7		unresolved	no qPCR run folder
+qpcr/Whi7/Yagya_whi7_act1_rdn18_cDNA_160621_02 - Abs Quant.txt	qPCR output	Whi7		unresolved	no qPCR run folder
+qpcr/Whi7/Yagya_whi7_act1_rdn18_cDNA_160621_02 - Abs Quant.xlsx	summary	Whi7		unresolved	no qPCR run folder
+qpcr/Whi7/Yagya_whi7_act1_rdn18_cDNA_160621_02.lc96p	qPCR output	Whi7		unresolved	no qPCR run folder
+qpcr/Whi7/Yagya_whi7_act1_rdn18_cDNA_170621 - Abs Quant.txt	qPCR output	Whi7		unresolved	no qPCR run folder
+qpcr/Whi7/Yagya_whi7_act1_rdn18_cDNA_170621 - Abs Quant.xlsx	summary	Whi7		unresolved	no qPCR run folder
+qpcr/Whi7/Yagya_whi7_act1_rdn18_cDNA_210521 - Abs Quant.txt	qPCR output	Whi7		unresolved	no qPCR run folder
+qpcr/Whi7/Yagya_whi7_act1_rdn18_cDNA_210521 - Abs Quant.xlsx	summary	Whi7		unresolved	no qPCR run folder
+qpcr/Whi7/Yagya_whi7_act1_rdn18_cDNA_210521 - Abs Quant_chosen curves.txt	qPCR output	Whi7		unresolved	no qPCR run folder
+qpcr/Whi7/Yagya_whi7_act1_rdn18_cDNA_210521 - Abs Quant_chosen curves.xlsx	summary	Whi7		unresolved	no qPCR run folder
+qpcr/Whi7/Yagya_whi7_act1_rdn18_cDNA_210521.lc96p	qPCR output	Whi7		unresolved	no qPCR run folder
+qpcr/Whi7/Yagya_whi7_act1_rdn18_cDNA_230621 - Abs Quant.txt	qPCR output	Whi7		unresolved	no qPCR run folder
+qpcr/Whi7/Yagya_whi7_act1_rdn18_cDNA_230621 - Abs Quant.xlsx	summary	Whi7		unresolved	no qPCR run folder
+qpcr/Whi7/Yagya_whi7_act1_rdn18_cDNA_230621.lc96p	qPCR output	Whi7		unresolved	no qPCR run folder
+qpcr/Whi7/Yagya_whi7_act1_rdn18_cDNA_240621 - Abs Quant.txt	qPCR output	Whi7		unresolved	no qPCR run folder
+qpcr/Whi7/Yagya_whi7_act1_rdn18_cDNA_240621 - Abs Quant.xlsx	summary	Whi7		unresolved	no qPCR run folder
+qpcr/Whi7/Yagya_whi7_act1_rdn18_cDNA_240621.lc96p	qPCR output	Whi7		unresolved	no qPCR run folder
+qpcr/Whi7/Yagya_whi7_act1_rdn18_cDNA_250621 - Abs Quant.txt	qPCR output	Whi7		unresolved	no qPCR run folder
+qpcr/Whi7/Yagya_whi7_act1_rdn18_cDNA_250621 - Abs Quant.xlsx	summary	Whi7		unresolved	no qPCR run folder
+qpcr/Whi7/Yagya_whi7_act1_rdn18_cDNA_250621.lc96p	qPCR output	Whi7		unresolved	no qPCR run folder
+qpcr/Whi7/Yagya_whi7_act1_rdn18_cDNA_280621 - Abs Quant.txt	qPCR output	Whi7		unresolved	no qPCR run folder
+qpcr/Whi7/Yagya_whi7_act1_rdn18_cDNA_280621 - Abs Quant.xlsx	summary	Whi7		unresolved	no qPCR run folder
+qpcr/Whi7/Yagya_whi7_act1_rdn18_cDNA_280621.lc96p	qPCR output	Whi7		unresolved	no qPCR run folder
+qpcr/Whi7/Yagya_whi7_act1_rdn18_cDNA_280621_02 - Abs Quant.txt	qPCR output	Whi7		unresolved	no qPCR run folder
+qpcr/Whi7/Yagya_whi7_act1_rdn18_cDNA_280621_02 - Abs Quant.xlsx	summary	Whi7		unresolved	no qPCR run folder
+qpcr/Whi7/Yagya_whi7_act1_rdn18_cDNA_280621_02.lc96p	qPCR output	Whi7		unresolved	no qPCR run folder
+qpcr/Whi7/Yagya_whi7_act1_rdn18_cDNA_290621.lc96p	qPCR output	Whi7		unresolved	no qPCR run folder
+qpcr/Whi7/Yagya_whi7_act1_rdn18_cDNA_290621_02 - Abs Quant.txt	qPCR output	Whi7		unresolved	no qPCR run folder
+qpcr/Whi7/Yagya_whi7_act1_rdn18_cDNA_290621_02 - Abs Quant.xlsx	summary	Whi7		unresolved	no qPCR run folder
+qpcr/Whi7/Yagya_whi7_act1_rdn18_cDNA_290621_02.lc96p	qPCR output	Whi7		unresolved	no qPCR run folder
+qpcr/Whi7/Yagya_whi7_rdn18_cDNA_170521_1.lc96p	qPCR output	Whi7		unresolved	no qPCR run folder
+qpcr/Whi7/Yagya_whi7_rdn18_cDNA_180521 - Abs Quant.txt	qPCR output	Whi7		unresolved	no qPCR run folder
+qpcr/Whi7/Yagya_whi7_rdn18_cDNA_180521 - Abs Quant.xlsx	summary	Whi7		unresolved	no qPCR run folder
+qpcr/Whi7/Yagya_whi7_rdn18_cDNA_180521.lc96p	qPCR output	Whi7		unresolved	no qPCR run folder
+qpcr/Whi7/Yagya_whi7_rdn18_cDNA_190521 - Abs Quant.txt	qPCR output	Whi7		unresolved	no qPCR run folder
+qpcr/Whi7/Yagya_whi7_rdn18_cDNA_190521.lc96p	qPCR output	Whi7		unresolved	no qPCR run folder
