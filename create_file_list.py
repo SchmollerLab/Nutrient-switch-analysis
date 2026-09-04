@@ -173,6 +173,7 @@ custom_raw_to_annotation_mapper = {
     "120423": "12042023",
     "20231212": "Ccr4_data_for_Felix/20231212",
     "20250307": "07032025",
+    "20250327": "27032025"
 }
 
 file_annotation_dict = {
